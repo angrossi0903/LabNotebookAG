@@ -3,3 +3,6 @@
 - Mantle and rectum was found and inoculated into RFTM for all samples
 - Samples in the drying oven
 - Taught Ava RFTM sampling protocol 
+5/18/2026
+- Finished dry weights for adult oyster sample oyster samples from summer 2025 and pushed to GitHub
+- 
