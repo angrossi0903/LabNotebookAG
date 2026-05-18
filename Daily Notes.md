@@ -5,4 +5,7 @@
 - Taught Ava RFTM sampling protocol 
 5/18/2026
 - Finished dry weights for adult oyster sample oyster samples from summer 2025 and pushed to GitHub
+-  Started bleach bath for old rftm slides
+	- two boxes left 
+- Started a box of RNAlater tubes for June
 - 
