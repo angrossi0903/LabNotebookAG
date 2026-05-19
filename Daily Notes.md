@@ -10,4 +10,4 @@
 - Started a box of RNAlater tubes for June
 5/9/2026
 - Cleaned 2 and a half boxes of summer 2025 RFTM slides and coverslips 
-- 
+- 300 RNALater tubes for June done and on Wall Shelf 4 (Done by me and Alex)
