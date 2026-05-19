@@ -8,4 +8,6 @@
 -  Started bleach bath for old rftm slides
 	- two boxes left 
 - Started a box of RNAlater tubes for June
+5/9/2026
+- Cleaned 2 and a half boxes of summer 2025 RFTM slides and coverslips 
 - 
