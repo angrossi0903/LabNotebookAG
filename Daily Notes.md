@@ -12,4 +12,7 @@
 - Cleaned 2 and a half boxes of summer 2025 RFTM slides and coverslips 
 - 300 RNALater tubes for June done and on Wall Shelf 4 (Done by me and Alex)
 5/20/2026
-- printed protocol for tomorrow and scoring guide 
+- printed protocol and scoring guide for RFTM sample processing tomorrow
+- made and committed 2026 perkinsus scoring data spreadsheet
+- finished cleaning microscope slides and coverslips from summer 2025 sampling
+- condensed 
