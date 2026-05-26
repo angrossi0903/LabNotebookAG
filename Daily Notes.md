@@ -15,4 +15,9 @@
 - printed protocol and scoring guide for RFTM sample processing tomorrow
 - made and committed 2026 perkinsus scoring data spreadsheet
 - finished cleaning microscope slides and coverslips from summer 2025 sampling
+5/21/2026
+- Processed oyster samples from last week
+- More RNALater tubes for June were done
+5/22/2026
+- NSF1 DEI RFTM pictures renamed
 
