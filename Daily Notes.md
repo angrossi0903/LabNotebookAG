@@ -22,5 +22,5 @@
 - NSF1 DEI RFTM pictures renamed
 5/26/2026
 - Renamed tissue and shell pictures for May winter mortality processing
-- 
+- Did my first DNA extraction with Jade; going to do 10 extractions tomorrow with Jade around if I have questions, going to do 10 on Friday
 
