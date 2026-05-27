@@ -18,9 +18,10 @@
 5/21/2026
 - Processed oyster samples from last week
 - More RNALater tubes for June were done
+- Juvenile oyster tissues from summer 2025 put into the dryer
 5/22/2026
 - NSF1 DEI RFTM pictures renamed
 5/26/2026
-- Renamed tissue and shell pictures for May winter mortality processing
+- Renamed oyster tissue and shell pictures for May winter mortality processing
 - Did my first DNA extraction with Jade; going to do 10 extractions tomorrow with Jade around if I have questions, going to do 10 on Friday
 
