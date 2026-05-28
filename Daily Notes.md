@@ -24,4 +24,10 @@
 5/26/2026
 - Renamed oyster tissue and shell pictures for May winter mortality processing
 - Did my first DNA extraction with Jade; going to do 10 extractions tomorrow with Jade around if I have questions, going to do 10 on Friday
-
+5/27/2026
+- attended kcs science scholars meeting thing at ETIC instead of lab meeting
+- did dna extraction semi-independently, results were pretty succesful! (thanks Jade!)
+5/28/2026
+- finished weighing NSW2 Sept and NSW3 Sept/Aug juvenile tissues
+- showing Ava how to make RFTM (making one batch for now)
+	- 
