@@ -30,4 +30,5 @@
 5/28/2026
 - finished weighing NSW2 Sept and NSW3 Sept/Aug juvenile tissues
 - showing Ava how to make RFTM (making one batch for now)
-	- 
+	- bottles in fridge by the Grey BSC and fume hood
+- 

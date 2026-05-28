@@ -1,6 +1,8 @@
 Date updated: [date]
-- a running list of tasks, put as much detail here as needed, and put in order of importance
-- this should include ALL work tasks list 
+- Finishing DNA extractions for Jade
+- Prepping for field work
+- Inventory 
+- Reading 16S PCR paper
 
 *Example:*
 - *Oyster shell weighing - 60 oysters*  
