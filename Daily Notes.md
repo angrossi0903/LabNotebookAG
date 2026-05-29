@@ -26,9 +26,13 @@
 - Did my first DNA extraction with Jade; going to do 10 extractions tomorrow with Jade around if I have questions, going to do 10 on Friday
 5/27/2026
 - attended kcs science scholars meeting thing at ETIC instead of lab meeting
-- did dna extraction semi-independently, results were pretty succesful! (thanks Jade!)
+- did dna extraction semi-independently, results were pretty successful! (thanks Jade!)
 5/28/2026
 - finished weighing NSW2 Sept and NSW3 Sept/Aug juvenile tissues
 - showing Ava how to make RFTM (making one batch for now)
 	- bottles in fridge by the Grey BSC and fume hood
+5/29/2026
+- Did DNA extraction for Gill 21-30 for NSW3
+	- Forgot to put on mask for tissues 21-24 (hopefully no contamination)
+		- **Won't make that mistake again lmao**
 - 
