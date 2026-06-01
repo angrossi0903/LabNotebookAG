@@ -35,4 +35,3 @@
 - Did DNA extraction for Gill 21-30 for NSW3
 	- Forgot to put on mask for tissues 21-24 (hopefully no contamination)
 		- **Won't make that mistake again lmao**
-- 
