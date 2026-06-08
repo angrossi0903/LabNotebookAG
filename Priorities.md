@@ -1,6 +1,4 @@
-Date updated: [date]
-- Finishing DNA extractions for Jade
+Date updated: 6/8/2026
 - Prepping for field work
-- Inventory Manatee
 - Reading 16S PCR paper
 
