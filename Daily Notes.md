@@ -37,3 +37,6 @@
 		- **Won't make that mistake again lmao**
 **6/8/2026**
 - Read and watched a couple of things related to 16s PCR
+**6/10/2026**
+- Labeled RFTM Tubes for field work next week
+- set up bleach bath for the last of the rftm slides from last summer
