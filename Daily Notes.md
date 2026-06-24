@@ -40,3 +40,8 @@
 **6/10/2026**
 - Labeled RFTM Tubes for field work next week
 - set up bleach bath for the last of the rftm slides from last summer
+**6/24/2026**
+- finished nsw2 june rftm samples
+	- pictures uploaded to google drive
+- planning to do nsf2 and nsw3 with ava tomorrow
+- planning to do nsw1 and nsf1 with ava on friday
