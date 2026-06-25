@@ -45,3 +45,6 @@
 	- pictures uploaded to google drive
 - planning to do nsf2 and nsw3 with ava tomorrow
 - planning to do nsw1 and nsf1 with ava on friday
+**6/25/2026**
+- finished nsf2 and nsw3 rftm samples with ava
+- doing nsw1 and nsf1 on monday with ava
