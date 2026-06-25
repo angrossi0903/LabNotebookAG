@@ -1,4 +1,4 @@
-**5/15/2026**
+****5/15/2026**
 - Performed RFTM sampling protocol and helped in completing histology protocol for NSF1 samples for disease screening after winter mass casualty event
 - Mantle and rectum was found and inoculated into RFTM for all samples
 - Samples in the drying oven
@@ -46,5 +46,5 @@
 - planning to do nsf2 and nsw3 with ava tomorrow
 - planning to do nsw1 and nsf1 with ava on friday
 **6/25/2026**
-- finished nsf2 and nsw3 rftm samples with ava
-- doing nsw1 and nsf1 on monday with ava
+- finished nsf2 and nsw3 RFTM samples with Ava
+- doing nsw1 and nsf1 on Monday with Ava
