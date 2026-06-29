@@ -48,3 +48,5 @@
 ## **6/25/2026**
 - finished nsf2 and nsw3 RFTM samples with Ava
 - doing nsw1 and nsf1 on Monday with Ava
+## **6/29/2026
+- finished nsw1 and nsf1 samples today
