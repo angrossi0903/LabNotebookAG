@@ -50,3 +50,9 @@
 - doing nsw1 and nsf1 on Monday with Ava
 ## **6/29/2026
 - finished nsw1 and nsf1 samples today
+## **7/1/2026
+- renamed wild site pictures for dermo scores
+## **7/2/2026
+- renamed farm site pictures
+- added dermo scores to spreadsheet
+
