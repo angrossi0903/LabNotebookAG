@@ -55,4 +55,9 @@
 ## **7/2/2026
 - renamed farm site pictures
 - added dermo scores to spreadsheet
+## **7/6/2026
+- updated dermo score datasheets in google drive
+- made a series of plots for meeting with Jade for the purpose of analyzing dermo score data from June 2026; settled on two
+
+
 
