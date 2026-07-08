@@ -62,6 +62,7 @@
 - made some more plots and modified old plots in excel
 	- NSW1 and NSW2 had the most infections of all 5 sample sites; NSW2 had the highest Dermo Score of 3 in an oyster's mantle and rectum
 	- NSW1 has the highest average Dermo score of all 5 sample sites
-- 
+- upload the scores to github from my spreadsheet to the github repo sheet
+		- pull from main first*** (add Jade as a reviewer)
 
 
