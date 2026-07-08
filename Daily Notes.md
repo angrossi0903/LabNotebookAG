@@ -64,5 +64,8 @@
 	- NSW1 has the highest average Dermo score of all 5 sample sites
 - upload the scores to github from my spreadsheet to the github repo sheet
 		- pull from main first*** (add Jade as a reviewer)
+## **7/8/2026
+- sent pull request for dermo scores for june 2026 fieldwork
+- 
 
 
