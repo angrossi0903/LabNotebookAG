@@ -58,6 +58,10 @@
 ## **7/6/2026
 - updated dermo score datasheets in google drive
 - made a series of plots for meeting with Jade for the purpose of analyzing dermo score data from June 2026; settled on two
-
+## **7/7/2026
+- made some more plots and modified old plots in excel
+	- NSW1 and NSW2 had the most infections of all 5 sample sites; NSW2 had the highest Dermo Score of 3 in an oyster's mantle and rectum
+	- NSW1 has the highest average Dermo score of all 5 sample sites
+- 
 
 
