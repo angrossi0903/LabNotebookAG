@@ -67,5 +67,6 @@
 ## **7/8/2026
 - sent pull request for dermo scores for june 2026 fieldwork
 - autoclaved test tubes from fieldwork
-
-
+## **7/9/2026
+- fixed github desktop to submit a a commit updating the representation of NA tissue samples
+- made more plots in excel based on questions discussed in mentor/mentee meeting
