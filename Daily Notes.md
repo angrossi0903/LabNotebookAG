@@ -73,4 +73,5 @@
 ## **7/10/2026
 - added tissue notes for rftm tissue samples that dissolved prior to analysis 
 	- also reuploaded data sheets with updated dissolved tissue notes
-- 
+- made a rough box plot in excel
+	- going to try to replace the median line with mean line and try to overlay markings for averages
