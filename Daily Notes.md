@@ -70,3 +70,7 @@
 ## **7/9/2026
 - fixed github desktop to submit a a commit updating the representation of NA tissue samples
 - made more plots in excel based on questions discussed in mentor/mentee meeting
+## **7/10/2026
+- added tissue notes for rftm tissue samples that dissolved prior to analysis 
+	- also reuploaded data sheets with updated dissolved tissue notes
+- 
