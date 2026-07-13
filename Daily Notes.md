@@ -75,3 +75,6 @@
 	- also reuploaded data sheets with updated dissolved tissue notes
 - made a rough box plot in excel
 	- going to try to replace the median line with mean line and try to overlay markings for averages
+## **7/13/2026
+- Put the last of the juvenile tissues in the dryer to be weighed next week
+- Adjusted the box plot I made last week a little bit, figured out a plot for question 2 in the excel sheet
