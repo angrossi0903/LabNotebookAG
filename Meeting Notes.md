@@ -29,5 +29,14 @@
 		- pull from main first*** (add Jade as a reviewer)
 	- email Natalie about the lab (shadowing)
 		
-		
+## **7/14/2026
+3 things i did this week
+- Set up the last juvenile tissues to dry and be weighed next week
+- figured out how to represent the mean and median in excel on a box plot
+- made other plots to answer questions from last week's one on one
+3 things i want to do this week
+- enjoy my vacation
+- when i'm back weigh the dried juvenile tissues and upload to github
+- learn how to fill out the farm sites form
+
   
