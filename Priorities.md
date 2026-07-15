@@ -9,3 +9,11 @@ For July
 	- try and change the median in the box plot to mean??? (google)
 	
 
+- see if random shell upstairs matches any shells from last summer; check freezers in lab for missing oyster shell
+- dry the last shells in the freezer from nsw3 2025
+
+7/15/2026
+- make a box plot for only infected oysters, for one tissue type (rectum) to answer "across sites on plum island, what is the range of intensities in dermo infected oysters"
+- see if random shell upstairs matches any shells from last summer; check freezers in lab for missing oyster shell
+- dry the last shells in the freezer from nsw3 2025
+

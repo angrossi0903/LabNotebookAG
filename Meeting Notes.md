@@ -37,6 +37,8 @@
 3 things i want to do this week
 - enjoy my vacation
 - when i'm back weigh the dried juvenile tissues and upload to github
-- learn how to fill out the farm sites form
+- learn how to fill out the farm sites form (wednesday)
+- see if random shell upstairs matches any shells from last summer; check freezers in lab for missing oyster shell
+- dry the last shells in the freezer from nsw3 2025
 
   
