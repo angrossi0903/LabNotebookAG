@@ -78,3 +78,7 @@
 ## **7/13/2026
 - Put the last of the juvenile tissues in the dryer to be weighed next week
 - Adjusted the box plot I made last week a little bit, figured out a plot for question 2 in the excel sheet
+## **7/14/2026
+- Lost R studio notes for coding by hand (might not have saved)
+	- going to try and replace it next week
+- Made a rough draft of an email for Natalie Steinel for chatting about her research and potential shadowing
