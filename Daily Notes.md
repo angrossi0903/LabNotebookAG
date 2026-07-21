@@ -82,3 +82,7 @@
 - Lost R studio notes for coding by hand (might not have saved)
 	- going to try and replace it next week
 - Made a rough draft of an email for Natalie Steinel for chatting about her research and potential shadowing
+## **7/21/2026
+- weighed the last summer 2025 oyster tissues and uploaded the data to github
+- put juvenile shells from 2025 in dryer to weigh next week
+- sent email to natalie and scheduled a day to meet and chat!!!
