@@ -31,4 +31,10 @@ For July
 		- highlight data your interested in, insert pivot table
 		- you can click the I icon on the right of the data in rows or columns and change what is represented in the table
 		- for averages, round to two decimal places
-		- 
+		- can add the same data in multiple rows/columns
+		- play around with the data to find what your interested in
+		- start with site on row
+		- save as an excel spreadsheet to save your pivot table (xlsx)
+	- not doing nsw3!
+	- have finished by the end of the day Monday
+- make a box plot from filtered data not including dermo scores equaling zero
