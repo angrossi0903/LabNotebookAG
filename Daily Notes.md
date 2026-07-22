@@ -86,3 +86,5 @@
 - weighed the last summer 2025 oyster tissues and uploaded the data to github
 - put juvenile shells from 2025 in dryer to weigh next week
 - sent email to natalie and scheduled a day to meet and chat!!!
+## **7/22/2026
+- finished two boxes of RNALater tubes

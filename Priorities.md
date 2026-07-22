@@ -18,9 +18,9 @@ For July
 - dry the last shells in the freezer from nsw3 2025
 
 7/22/2026
-- weigh dried shells Friday (make a note for which juvenile shells attached to larger shells)
+- weigh dried shells **Friday (make a note for which juvenile shells attached to larger shells)
 - start thinking about plots and slideshow for lab meeting next month
-- Filling out Farm Sheets
+- **Filling out Farm Sheets:
 	- 2025 fieldwork examples in folder on drive
 	- includes both wild and farm data
 	- for water data, check github in PIC repo
