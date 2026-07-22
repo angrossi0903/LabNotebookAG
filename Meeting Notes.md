@@ -40,5 +40,15 @@
 - learn how to fill out the farm sites form (wednesday)
 - see if random shell upstairs matches any shells from last summer; check freezers in lab for missing oyster shell
 - dry the last shells in the freezer from nsw3 2025
+## **7/22/2026
+3 things i did this week
+- started drying the last juvenile shells from last summer
+- made a box plot with just one tissue in excel
+- REALLY enjoyed my vacation
+3 things I want to do this week
+- fill out farm data sheets
+- learn PCR 
+- read papers from Natalie's lab
+
 
   
