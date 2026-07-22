@@ -17,3 +17,18 @@ For July
 - see if random shell upstairs matches any shells from last summer; check freezers in lab for missing oyster shell
 - dry the last shells in the freezer from nsw3 2025
 
+7/22/2026
+- weigh dried shells Friday (make a note for which juvenile shells attached to larger shells)
+- start thinking about plots and slideshow for lab meeting next month
+- Filling out Farm Sheets
+	- 2025 fieldwork examples in folder on drive
+	- includes both wild and farm data
+	- for water data, check github in PIC repo
+	- average infection score: average of the averages taken from mantle and rectum that are greater than zero
+	- make a copy of one of the sheets from last summer and move to 2026, delete macroparasite form
+	- change name of spreadsheet from github to indicate that it is a working sheet
+	- using a pivot table
+		- highlight data your interested in, insert pivot table
+		- you can click the I icon on the right of the data in rows or columns and change what is represented in the table
+		- for averages, round to two decimal places
+		- 
