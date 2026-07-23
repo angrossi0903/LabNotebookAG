@@ -38,3 +38,19 @@ copy & paste table off of mm_calculations, note which primer you are using each 
         3. 72C for 20 seconds
     3. 72C for 2 mins (extension)
     4. 12C forever
+
+## **PCR Training First Round Test; 7/23/2026
+Sample 1: NSW2, August, Oyster 2, 2025, Gill
+Sample 2: NSW1, August, Oyster 6, 2025, Gill
+Sample 3: NSW1, August Oyster 20, 2025, Gill
+
+1) NSW2, August, Oyster 2, 2025, Gill
+2) NSW2, August, Oyster 2, 2025, Gill
+3) NSW2, August, Oyster 2, 2025, Gill
+4) NSW1, August, Oyster 6, 2025, Gill
+5) NSW1, August, Oyster 6, 2025, Gill
+6) NSW1, August, Oyster 6, 2025, Gill
+7) NSW1, August Oyster 20, 2025, Gill
+8) NSW1, August Oyster 20, 2025, Gill
+9) NSW1, August Oyster 20, 2025, Gill
+ Used 16S Touchdown program, started at 11:17
