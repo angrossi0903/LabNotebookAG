@@ -58,3 +58,5 @@ Sample 3: NSW1, August Oyster 20, 2025, Gill
 Gel Order
 Row 1: DNA Ladder, 1, 4, 7, 2, 5, 8, 3, 6, DNA Ladder
 Row 2: DNA Ladder, 9, Neg 1, Neg 2, Neg 3, DNA Ladder
+
+![[Screenshot 2026-07-23 143354.png]]
