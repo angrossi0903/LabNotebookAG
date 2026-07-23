@@ -54,3 +54,7 @@ Sample 3: NSW1, August Oyster 20, 2025, Gill
 8) NSW1, August Oyster 20, 2025, Gill
 9) NSW1, August Oyster 20, 2025, Gill
  Used 16S Touchdown program, started at 11:17
+
+Gel Order
+Row 1: DNA Ladder, 1, 4, 7, 2, 5, 8, 3, 6, DNA Ladder
+Row 2: DNA Ladder, 9, Neg 1, Neg 2, Neg 3, DNA Ladder
