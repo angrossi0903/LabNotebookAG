@@ -1,6 +1,7 @@
 #### I. PCR
 
 [](https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/16S_library_prep.md#i-pcr
+- ==spray BSC and pipettes in BSC with 10% bleach, dry, and then spray with 70% ethanol, then dry before use==
 - ==UV sterilize ALL tubes==
 - **Repeat 3x for all samples that are to be included in the metabarcode library**
 - _always include water (negative control - indication of no contamination) and very dilute positive controls (1-5ng of DNA) in every experiment_
@@ -9,8 +10,18 @@
     - Polymerase should _never_ be left at room temperature - **stays in freezer or in freezer box**
 - use aliquoted reagents (limits contamination)
 - **all PCR prep is done in the biosafety cabinet in the lab***
+	- ==when getting PCR tubes out, DO NOT reach your hand in, ease them out of the bag from the outside==
+	- ==cut tubes from each other for each triplicate (ex. if doing 3 samples and a negative, cut 3 sets of 4 tubes)==
+		- label tube bag with initials and date opened
+	- ==2 eppendorf tubes (1 for water aliquot, 1 for mastermix)==
+	- ==UV pipette tips with the boxes open, pipettes flat on the base of the BSC, open water aliquot, and open PCR tubes for ~5 minutes==
+	- ==Label tube rack used for holding mastermix components==
+	- ==DO NOT UV mastermix components==
+	- ==Label your PCR tubes unique numbers based on the triplicate (ex 1,4,7 for one triplicate, 2,5,8 for another, 3,6,9 for the last); label with initials, number, and date==
+		- dont put hands inside the tubes and close them one at a time as your using them
 
 
+ 
 copy & paste table off of mm_calculations, note which primer you are using each day (0N,1N...)
 
 | Reagent                                      | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
@@ -27,6 +38,12 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 | _adapted from Sarah's evernote 02/02/21 16S_ |                       |                            |                      |
 
 1. Create master mix for each sample
+	1. ==aliquot from sterile molecular water==
+	2. ==copy mastermix component concentration table from google sheets everytime you use it==
+	3. ==mix reagents with pipette tip before removing==
+		- ==make sure especially to mix the polymerase== 
+	4) ==vortex mastermix before pipetting into pcr tubes==
+	
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
     1. use new pipette tip for each replicate
@@ -38,6 +55,13 @@ copy & paste table off of mm_calculations, note which primer you are using each 
         3. 72C for 20 seconds
     3. 72C for 2 mins (extension)
     4. 12C forever
+- ==When running a gel, do not run or load in the lab (use 614)== 
+- ==Add 1 mL GelRed for every 50mL of gel solution==
+- ==spin down pcr tubes before loading into the gel==
+- ==10 microliters of loading dye to make 10 dots of 1 microliter loading dye spots on parafilm==
+	- ==1 microliter of dna from each sample divided amongst these 10 dots==
+- ==ALWAYS make a note of how you loaded the gel==
+- ==If PCR products sit in the fridge for an extended period, spindown before use==
 
 ## **PCR Training First Round Test; 7/23/2026
 Sample 1: NSW2, August, Oyster 2, 2025, Gill
@@ -45,13 +69,13 @@ Sample 2: NSW1, August, Oyster 6, 2025, Gill
 Sample 3: NSW1, August Oyster 20, 2025, Gill
 
 1) NSW2, August, Oyster 2, 2025, Gill
-2) NSW2, August, Oyster 2, 2025, Gill
-3) NSW2, August, Oyster 2, 2025, Gill
-4) NSW1, August, Oyster 6, 2025, Gill
+2) NSW1, August, Oyster 6, 2025, Gill
+3) NSW1, August Oyster 20, 2025, Gill
+4) NSW2, August, Oyster 2, 2025, Gill
 5) NSW1, August, Oyster 6, 2025, Gill
-6) NSW1, August, Oyster 6, 2025, Gill
-7) NSW1, August Oyster 20, 2025, Gill
-8) NSW1, August Oyster 20, 2025, Gill
+6) NSW1, August Oyster 20, 2025, Gill
+7) NSW2, August, Oyster 2, 2025, Gill
+8) NSW1, August, Oyster 6, 2025, Gill
 9) NSW1, August Oyster 20, 2025, Gill
  Used 16S Touchdown program, started at 11:17
 
