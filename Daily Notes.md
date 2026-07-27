@@ -88,3 +88,14 @@
 - sent email to natalie and scheduled a day to meet and chat!!!
 ## **7/22/2026
 - finished two boxes of RNALater tubes
+## **7/23/2026
+- Did first PCR training with Sarah, Jade, and Brandon
+	- Learned a lot and took notes for remembering things when we do a supervised trial run
+	- Gel came out good, but loading could use improvement for getting used to smaller gels
+## **7/24/2026
+- Put notes from yesterday into personal obsidian version of PCR protocol
+- Made box plot including only infected oysters from June 2026
+- Read through protocol for PCR one more time for Monday
+## **7/27/2026
+- Finished farm data forms for June 2026 fieldwork
+- Still figuring out how to use a PivotTable, did a lot of calculations by hand using a calculator
