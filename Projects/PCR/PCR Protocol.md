@@ -126,12 +126,12 @@ Sample 2: NSW1, August, Oyster 6, 2025, Gill
 Sample 3: NSW1, August Oyster 20, 2025, Gill
 
 1) NSW2, August, Oyster 2, 2025, Gill
-2) NSW1, August, Oyster 6, 2025, Gill
-3) NSW1, August Oyster 20, 2025, Gill
-4) NSW2, August, Oyster 2, 2025, Gill
+2) NSW1, August, Oyster 2, 2025, Gill
+3) NSW1, August Oyster 2, 2025, Gill
+4) NSW2, August, Oyster 6, 2025, Gill
 5) NSW1, August, Oyster 6, 2025, Gill
-6) NSW1, August Oyster 20, 2025, Gill
-7) NSW2, August, Oyster 2, 2025, Gill
-8) NSW1, August, Oyster 6, 2025, Gill
+6) NSW1, August Oyster 6, 2025, Gill
+7) NSW2, August, Oyster 20, 2025, Gill
+8) NSW1, August, Oyster 20, 2025, Gill
 9) NSW1, August Oyster 20, 2025, Gill
  Used 16S Touchdown program, started at 11:17
