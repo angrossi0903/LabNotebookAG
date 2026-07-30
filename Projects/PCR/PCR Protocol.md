@@ -64,6 +64,7 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 - ==If PCR products sit in the fridge for an extended period, spindown before use==
 
 ## **PCR Training First Round Test; 7/23/2026
+Primers Used: 0N 515F, 0N 806R
 Sample 1: NSW2, August, Oyster 2, 2025, Gill
 Sample 2: NSW1, August, Oyster 6, 2025, Gill
 Sample 3: NSW1, August Oyster 20, 2025, Gill
@@ -105,20 +106,21 @@ Row 2: DNA Ladder, 9, Neg 1, Neg 2, Neg 3, DNA Ladder
 - same samples as First Round Test
 ## Master Mix Table:
 
-|   |   |   |   |
-|---|---|---|---|
-|Reagent|Amount per 1 rxn (uL)|MasterMix Amount (uL) + 5%|Triplicate (uL) + 5%|
-|Buffer|5|21|63|
-|dNTP (10mM)|0.5|2.1|6.3|
-|F Primer (10uM)|1|4.2|12.6|
-|R Primer (10uM)|1|4.2|12.6|
-|Polymerase|0.25|1.05|3.15|
-|Albumin|0.25|1.05|3.15|
-|Water|16|67.2|201.6|
-|DNA|1|||
-|Total|25|100.8|302.4|
+|                 |                       |                            |                      |
+| --------------- | --------------------- | -------------------------- | -------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 5                     | 21                         | 63                   |
+| dNTP (10mM)     | 0.5                   | 2.1                        | 6.3                  |
+| F Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| R Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| Polymerase      | 0.25                  | 1.05                       | 3.15                 |
+| Albumin         | 0.25                  | 1.05                       | 3.15                 |
+| Water           | 16                    | 67.2                       | 201.6                |
+| DNA             | 1                     |                            |                      |
+| Total           | 25                    | 100.8                      | 302.4                |
 	- includes concentrations for all 4 samples (3 DNA and 1 negative)
 
+Primers Used: 1N 515F, 1N 806R
 Sample 1: NSW2, August, Oyster 2, 2025, Gill
 Sample 2: NSW1, August, Oyster 6, 2025, Gill
 Sample 3: NSW1, August Oyster 20, 2025, Gill
