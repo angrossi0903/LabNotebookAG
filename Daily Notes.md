@@ -99,3 +99,7 @@
 ## **7/27/2026
 - Finished farm data forms for June 2026 fieldwork
 - Still figuring out how to use a PivotTable, did a lot of calculations by hand using a calculator
+## **7/30/2026
+- Another round of pcr training today (Brandon led); loaded gel for sarah's pcr and that went much better than loading the first time
+## **7/31/2026
+- finished filling RNAlater tubes for fieldwork
