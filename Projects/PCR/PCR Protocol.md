@@ -183,10 +183,11 @@ Doing temperature gradient, not a triplicate
 | DNA             | 1                     |                            |
 | Total           | 25                    | 453.6                      |
 |                 |                       |                            |
-PCR Temperature Gradient: Tube 1 Back - Tube 8 Front
-					   Tube 9 Back - Tube 16 Front
-					   Negative Front
-					   57/72 degrees Celsius
+PCR Temperature Gradient: 
+					   - Tube 1 Back - Tube 8 Front
+					   - Tube 9 Back - Tube 16 Front
+					   - Negative Front
+					   - 57/72 degrees Celsius
 					
 
 Gel Well Order Row 1: Ladder
