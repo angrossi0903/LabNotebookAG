@@ -101,9 +101,8 @@ Primers Used: 0N 515F, 0N 806R
 15.  NSW1, August Oyster 20, 2025, Gill 
 16.  NSW1, August Oyster 20, 2025, Gill 
 17. Negative 1
-18. Negative 2
 
-Doing temperature gradient, not a triplicate
+- Doing temperature gradient, not a triplicate
 
 |                 |                       |                            |
 | --------------- | --------------------- | -------------------------- |
@@ -125,4 +124,6 @@ PCR Temperature Gradient:
 					   - 57/72 degrees Celsius
 					
 
-Gel Well Order Row 1: Ladder
+## Gel Well Order 
+Row 1: Ladder, Ladder, 1, 2, 3, 4, 5, 6, 7, 8, Empty, Empty, Empty, Ladder
+Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Empty
