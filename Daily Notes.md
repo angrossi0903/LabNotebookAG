@@ -103,3 +103,14 @@
 - Another round of pcr training today (Brandon led); loaded gel for sarah's pcr and that went much better than loading the first time
 ## **7/31/2026
 - finished filling RNAlater tubes for fieldwork
+
+## **8/20/2026
+- did NSW3 and most of NSF1 rftm samples
+- worked 9-5
+## **8/24/2026
+- finished rftm samples
+- started looking at plots for lab meeting
+- makde 95% ethanol tubes for Dale processing
+- data for rftm uploaded to github
+- worked from 10-5
+
