@@ -113,4 +113,17 @@
 - makde 95% ethanol tubes for Dale processing
 - data for rftm uploaded to github
 - worked from 10-5
+## **8/25/2026
+- finished presentation for lab meeting
+- had my meeting with Dr. Steinel
+- finished prep for dale's oyster processing
+- worked from 10-5 (30 minute break)
+## **8/26/2026
+- processed dale's oysters
+- presented in lab meeting
+- worked from 9-4 (30 minute break)
+## **8/27/2026
+- worked from home
+- worked on modifying some plots from lab meeting and making new ones from other people's suggestion
+- worked from 11-3
 
