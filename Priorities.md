@@ -38,3 +38,11 @@ For July
 	- not doing nsw3!
 	- have finished by the end of the day Monday
 - make a box plot from filtered data not including dermo scores equaling zero
+
+
+## Fall Semester
+9/2/2026 (1:30PM-4:45PM)
+- finish south shore rftm samples
+- rename pictures from the end of the summer
+- do mentoring agreement
+- talk to jade about continuing PCR stuff (watching or being in the room if i have questions)

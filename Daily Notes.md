@@ -126,4 +126,7 @@
 - worked from home
 - worked on modifying some plots from lab meeting and making new ones from other people's suggestion
 - worked from 11-3
+## **9/2/2026
+- did 24 of the south shore farm RFTM samples 
+- set up one on one meeting with Jade for this Friday at 2 and every Wednesday at 2 for the following weeks
 
