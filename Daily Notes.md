@@ -130,3 +130,8 @@
 - did 24 of the south shore farm RFTM samples 
 - set up one on one meeting with Jade for this Friday at 2 and every Wednesday at 2 for the following weeks
 
+## **9/3/2026
+- finished processing south shore oyster samples
+- uploaded data sheets
+- talked with Tani a bit about her experience with graduate school and things that might help my chances in being accepted into a program
+- 
