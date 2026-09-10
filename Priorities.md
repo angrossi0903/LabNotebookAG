@@ -46,3 +46,20 @@ For July
 - rename pictures from the end of the summer
 - do mentoring agreement
 - talk to jade about continuing PCR stuff (watching or being in the room if i have questions)
+
+9/10/2026
+2) Rename pictures by the end of the day 9/11/2026
+3) Upload South Shore Data by the end of the day 9/11/2026
+**Poster:**
+* by September 23rd: 2-3 plots for the poster
+* by September 30th: outline for the poster
+* by October 7th: add in text
+* by October 14th: final draft
+* by October 16th: have poster ready to print
+* before October 19/20th: have Irma print the poster
+
+PCR:
+* continue training September 21st (1:30PM-5PM) with Jade watching 
+    * reread the protocol and notes beforehand
+
+
