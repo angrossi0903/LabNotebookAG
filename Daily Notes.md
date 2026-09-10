@@ -129,9 +129,17 @@
 ## **9/2/2026
 - did 24 of the south shore farm RFTM samples 
 - set up one on one meeting with Jade for this Friday at 2 and every Wednesday at 2 for the following weeks
+- worked from 1:30 to 5
 
 ## **9/3/2026
 - finished processing south shore oyster samples
 - uploaded data sheets
 - talked with Tani a bit about her experience with graduate school and things that might help my chances in being accepted into a program
-- 
+- Worked from 9-4:45
+
+## **9/9/2026
+- meeting with jade about pcr, dermo reports, and poster for october
+- did dermo reports and filled out mentoring agreement
+- worked from 2-5:15
+
+
