@@ -142,4 +142,10 @@
 - did dermo reports and filled out mentoring agreement
 - worked from 2-5:15
 
+## **9/10/2026
+- uploaded south shore data to github
+- finished dermo reports for north shore farms and south shore
+- started renaming pictures from august
+	- finished nsf1, started nsw3 (hoping to finish nsw3 and finish NSF2 tomorrow)
+- worked from 9:30-4:30 (30 minute lunch break)
 
