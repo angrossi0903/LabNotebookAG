@@ -149,3 +149,8 @@
 	- finished nsf1, started nsw3 (hoping to finish nsw3 and finish NSF2 tomorrow)
 - worked from 9:30-4:30 (30 minute lunch break)
 
+## **9/11/2026
+- finished last of nsw3 pictures and got through half of the nsf2 pictures before colloquium
+- joined lab meeting on zoom
+- worked 11:00-11:50; 1:30-2:45
+
