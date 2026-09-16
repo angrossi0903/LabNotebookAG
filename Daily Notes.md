@@ -154,3 +154,9 @@
 - joined lab meeting on zoom
 - worked 11:00-11:50; 1:30-2:45
 
+## **9/16/2026
+- fixed some plots from lab meeting based on feedback 
+- in the process of making a point plot sized by number of infected oysters from Julia's advice
+- worked from 1PM-4PM
+
+
