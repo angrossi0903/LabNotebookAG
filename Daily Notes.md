@@ -159,4 +159,10 @@
 - in the process of making a point plot sized by number of infected oysters from Julia's advice
 - worked from 1PM-4PM
 
+## **9/17/2026
+- finished august 2026 rftm pictures
+- finished dot plot sized by number of infected oysters 
+- researching other plots that could be useful for dermo score data
+- going to talk to tristin tomorrow about a plot he had an idea to make 
+
 
