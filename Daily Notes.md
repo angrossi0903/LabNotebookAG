@@ -164,5 +164,7 @@
 - finished dot plot sized by number of infected oysters 
 - researching other plots that could be useful for dermo score data
 - going to talk to tristin tomorrow about a plot he had an idea to make 
+- worked from 10-4:50 (took 45 minute lunch break)
+
 
 
