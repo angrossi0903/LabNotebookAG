@@ -165,6 +165,12 @@
 - researching other plots that could be useful for dermo score data
 - going to talk to tristin tomorrow about a plot he had an idea to make 
 - worked from 10-4:50 (took 45 minute lunch break)
-
+## **9/18/2026
+- went to lab meeting
+- helped Tani with RFTM and autoclaving
+- Talked to Tristen and Tani about making plots for october 
+	- was extremely helpful!!!
+- worked 1:15-3
+- went to colloquium
 
 
