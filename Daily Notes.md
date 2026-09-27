@@ -173,4 +173,9 @@
 - worked 1:15-3
 - went to colloquium
 
+## **9/24/2026
+- made a couple more plots and improved other ones from R
+- started an outline for the poster in october
+- worked 10AM-4PM
+
 
