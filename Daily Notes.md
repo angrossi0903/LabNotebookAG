@@ -178,4 +178,11 @@
 - started an outline for the poster in october
 - worked 10AM-4PM
 
+## **9/30/2026
+- made outline for poster
+	- going to get feedback from Jade tomorrow on outline and plots for the poster
+- tried to find out why the line/dot plot is missing a dot but couldn't fix it
+	- going to ask around tomorrow for help
+- worked 2PM-4PM
+
 
