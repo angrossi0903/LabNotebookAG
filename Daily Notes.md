@@ -185,4 +185,11 @@
 	- going to ask around tomorrow for help
 - worked 2PM-4PM
 
+## **10/1/2026
+- cleaned 3 boxes of RFTM slides
+	- still working on coverslips
+- talked to brandon about some questions i had for pcr/gels
+- made plan for pcr on 10/7
+- was able to make line graph cleaner and removed gaps in time on x-axis
+
 
