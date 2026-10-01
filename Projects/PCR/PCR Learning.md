@@ -127,3 +127,7 @@ PCR Temperature Gradient:
 ## Gel Well Order 
 Row 1: Ladder, Ladder, 1, 2, 3, 4, 5, 6, 7, 8, Empty, Empty, Empty, Ladder
 Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Empty
+
+
+## PCR Training, **10/7/2026
+- Using samples **August 2025, NSW1, 1, Gill and August 2025, NSW1, 3, Gill

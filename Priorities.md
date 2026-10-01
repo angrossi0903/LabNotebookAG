@@ -62,4 +62,7 @@ PCR:
 * continue training September 21st (1:30PM-5PM) with Jade watching 
     * reread the protocol and notes beforehand
 
+10/1/2026
+- make sure RFTM slides are done by thursday
+- make sure to make plan for PCR by 10/6
 
