@@ -130,4 +130,25 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 
 
 ## PCR Training, **10/7/2026
-- Using samples **August 2025, NSW1, 1, Gill and August 2025, NSW1, 3, Gill
+- Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 6, Gill== and primers ==0 515F and 0 806R==
+	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
+- Have a working PCR box in small freezer next to the Narwhal freezer
+- Taq and albumin in the same freezer
+- 1:10 dilution with triplicates for each sample, 2 negatives
+- Thermocycler program: 16S touchdown program
+
+
+|                 |                       |                            |                      |
+| --------------- | --------------------- | -------------------------- | -------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 5                     | 21                         | 63                   |
+| dNTP (10mM)     | 0.5                   | 2.1                        | 6.3                  |
+| F Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| R Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| Polymerase      | 0.25                  | 1.05                       | 3.15                 |
+| Albumin         | 0.25                  | 1.05                       | 3.15                 |
+| Water           | 16                    | 67.2                       | 201.6                |
+| DNA             | 1                     |                            |                      |
+| Total           | 25                    | 100.8                      | 302.4                |
+- 1.5% agarose gel, 50 mL
+
