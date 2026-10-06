@@ -131,6 +131,7 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 
 ## PCR Training, **10/7/2026
 - Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 6, Gill== and primers ==0 515F and 0 806R==
+	- Triplicate for each sample and a triplicate for negative!
 	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
