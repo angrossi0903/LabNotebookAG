@@ -139,6 +139,20 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 	- ==1 microliter of DNA, 9 microliters of MasterMix==
 - Thermocycler program: 66 °C
 
+Tubes:
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 6, Gill
+4) Negative
+5) August 2025, NSW1, 1, Gill
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 6, Gill
+8) Negative
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 6, Gill
+12) Negative
+
 
 |                 |                       |                            |                      |
 | --------------- | --------------------- | -------------------------- | -------------------- |
