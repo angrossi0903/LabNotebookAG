@@ -135,8 +135,9 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
-- 1:10 dilution with triplicates for each sample, 2 negatives
-- Thermocycler program: 16S touchdown program
+- 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
+	- ==1 microliter of DNA, 9 microliters of MasterMix==
+- Thermocycler program: 66 °C
 
 
 |                 |                       |                            |                      |
