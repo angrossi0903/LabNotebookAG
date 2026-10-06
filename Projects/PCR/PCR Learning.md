@@ -138,6 +138,13 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
 	- ==1 microliter of DNA, 9 microliters of MasterMix==
 - Thermocycler program: 66 °C
+1. 98C for 30 seconds
+2. **28 cycles** (reduced from 30 cycles to) of:
+    1. 98C for 10 seconds
+    2. 66C for 30 seconds
+    3. 72C for 20 seconds
+3. 72C for 2 mins (extension)
+4. 12C forever
 
 Tubes:
 1) August 2025, NSW1, 1, Gill
