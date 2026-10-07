@@ -176,3 +176,13 @@ Side of tube: Date, Initials, PCR/DNA
 | Total           | 25                    | 100.8                      | 302.4                |
 - 1.5% agarose gel, 50 mL
 
+Well Broke for PCR tube 8 (might impact results)
+Making gel went well, loading gel may not have gone as well; will see once gel runs
+	- hopefully we see DNA amplification and none in the negatives, but definitely could have done a better job loading
+
+==Reminders:==
+- ==1 microliter GelRed for every 50 microliters==
+- ==Wells face the Black Probe and runs to Red==
+
+Gel Order: DNA Ladder, PCR Tube 1, 2, 3, 4 (negative), 5, 6, 7, 8 (negative), rest empty, DNA Ladder
+		 DNA Ladder, PCR Tube 9, 10, 11, 12 (negative) , rest empty
