@@ -137,7 +137,7 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
 	- ==1 microliter of DNA, 9 microliters of water==
-- Thermocycler program: 66 °C
+- Thermocycler program: 66 °C - ==OYS_16S_PCR==
 1. 98C for 30 seconds
 2. **28 cycles** (reduced from 30 cycles to) of:
     1. 98C for 10 seconds
