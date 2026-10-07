@@ -136,7 +136,7 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
-	- ==1 microliter of DNA, 9 microliters of MasterMix==
+	- ==1 microliter of DNA, 9 microliters of water==
 - Thermocycler program: 66 °C
 1. 98C for 30 seconds
 2. **28 cycles** (reduced from 30 cycles to) of:
@@ -160,6 +160,7 @@ Tubes:
 11) August 2025, NSW1, 6, Gill
 12) Negative 3
 
+Side of tube: Date, Initials, PCR/DNA
 
 |                 |                       |                            |                      |
 | --------------- | --------------------- | -------------------------- | -------------------- |
