@@ -136,7 +136,8 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
-	- ==1 microliter of DNA, 9 microliters of water==
+	- ==2 microliter of DNA, 18 microliters of water==
+		- **do this for all DNA dilutions for PCR ,moving forward**
 - Thermocycler program: 66 °C - ==OYS_16S_PCR==
 1. 98C for 30 seconds
 2. **28 cycles** (reduced from 30 cycles to) of:
@@ -176,9 +177,11 @@ Side of tube: Date, Initials, PCR/DNA
 | Total           | 25                    | 100.8                      | 302.4                |
 - 1.5% agarose gel, 50 mL
 
+**Post PCR:**
 Well Broke for PCR tube 8 (might impact results)
 Making gel went well, loading gel may not have gone as well; will see once gel runs
 	- hopefully we see DNA amplification and none in the negatives, but definitely could have done a better job loading
+	- added unstained DNA accidentally to the well two to the right of the well containing sample 8
 
 ==Reminders:==
 - ==1 microliter GelRed for every 50 microliters==
@@ -186,3 +189,12 @@ Making gel went well, loading gel may not have gone as well; will see once gel r
 
 Gel Order: DNA Ladder, PCR Tube 1, 2, 3, 4 (negative), 5, 6, 7, 8 (negative), rest empty, DNA Ladder
 		 DNA Ladder, PCR Tube 9, 10, 11, 12 (negative) , rest empty
+
+
+- **Results:**
+	- bands look clean, but big bands in negative 
+		- bands also in the wrong spot in association with the DNA ladder
+	- ladder is extremely streaky and hard to read
+	- **possible i forgot to add the albumin when making the mastermix**
+
+![](Screenshot%202026-10-07%20161219.png)

@@ -194,4 +194,9 @@
 - was able to make line graph cleaner and removed gaps in time on x-axis
 - worked 9:30AM - 4:50PM
 
+## **10/7/2026
+- did a pcr
+- ran the gel for the PCR, made figure for the gel, talked with jade about interpretations of what could have gone wrong in the pcr
+- worked from 8:40 AM - 10:30 AM; 1:30 PM - 5 PM
+
 
