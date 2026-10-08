@@ -198,7 +198,7 @@ Gel Order: DNA Ladder, PCR Tube 1, 2, 3, 4 (negative), 5, 6, 7, 8 (negative), re
 	- **possible i forgot to add the albumin when making the mastermix**
 
 ![](Screenshot%202026-10-07%20161219.png)
-
+- in future, label 97 and 95 bp bands in ladder
 ## PCR Training, **10/8/2026
 
 - **Working to Troubleshoot failed PCR from yesterday**
