@@ -175,7 +175,7 @@ Side of tube: Date, Initials, PCR/DNA
 | Water           | 16                    | 67.2                       | 201.6                |
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 100.8                      | 302.4                |
-- 1.5% agarose gel, 50 mL
+- 1.5% agarose gel, 75 mL
 
 **Post PCR:**
 Well Broke for PCR tube 8 (might impact results)
@@ -198,3 +198,54 @@ Gel Order: DNA Ladder, PCR Tube 1, 2, 3, 4 (negative), 5, 6, 7, 8 (negative), re
 	- **possible i forgot to add the albumin when making the mastermix**
 
 ![](Screenshot%202026-10-07%20161219.png)
+
+## PCR Training, **10/8/2026
+
+- **Working to Troubleshoot failed PCR from yesterday**
+
+- Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 6, Gill== and primers ==0 515F and 0 806R==
+	- Triplicate for each sample and a triplicate for negative!
+	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
+- Have a working PCR box in small freezer next to the Narwhal freezer
+- Taq and albumin in the same freezer
+- 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
+	- ==2 microliter of DNA, 18 microliters of water==
+		- **do this for all DNA dilutions for PCR ,moving forward**
+- Thermocycler program: 66 °C - ==OYS_16S_PCR==
+1. 98C for 30 seconds
+2. **28 cycles** (reduced from 30 cycles to) of:
+    1. 98C for 10 seconds
+    2. 66C for 30 seconds
+    3. 72C for 20 seconds
+3. 72C for 2 mins (extension)
+4. 12C forever
+
+Tubes:
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 6, Gill
+4) Negative 1
+5) August 2025, NSW1, 1, Gill
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 6, Gill
+8) Negative 2
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 6, Gill
+12) Negative 3
+
+Side of tube: Date, Initials, PCR/DNA
+
+|                 |                       |                            |                      |
+| --------------- | --------------------- | -------------------------- | -------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 5                     | 21                         | 63                   |
+| dNTP (10mM)     | 0.5                   | 2.1                        | 6.3                  |
+| F Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| R Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| Polymerase      | 0.25                  | 1.05                       | 3.15                 |
+| Albumin         | 0.25                  | 1.05                       | 3.15                 |
+| Water           | 16                    | 67.2                       | 201.6                |
+| DNA             | 1                     |                            |                      |
+| Total           | 25                    | 100.8                      | 302.4                |
+- 1.5% agarose gel, 50 mL
