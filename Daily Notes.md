@@ -199,4 +199,11 @@
 - ran the gel for the PCR, made figure for the gel, talked with jade about interpretations of what could have gone wrong in the pcr
 - worked from 8:40 AM - 10:30 AM; 1:30 PM - 5 PM
 
+## **10/8/2026
+- ran another PCR to try and see if problem with yesterday's PCR was MasterMix or not putting DNA in tubes
+	- did not work (maybe program?); gel went well and DNA ladder looks better!
+	- nanodropped sample dilutions to confirm presence of sufficient DNA for amplification
+- figured out a way to shape by wild/farmed in prevalence plot for biology retreat 
+
+
 
