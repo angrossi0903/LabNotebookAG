@@ -249,3 +249,9 @@ Side of tube: Date, Initials, PCR/DNA
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 100.8                      | 302.4                |
 - 1.5% agarose gel, 50 mL
+
+![](Pasted%20image%2020261008231701.png)
+
+- pcr didn't work again :(
+	- could be the program modification (annealing step = 66 degrees celsius)?
+- dna ladder looks better and the gel definitely works  
