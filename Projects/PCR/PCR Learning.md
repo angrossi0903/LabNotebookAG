@@ -255,3 +255,38 @@ Side of tube: Date, Initials, PCR/DNA
 - pcr didn't work again :(
 	- could be the program modification (annealing step = 66 degrees celsius)?
 - dna ladder looks better and the gel definitely works  
+
+## **PCR Training/Troubleshooting 10/15/2026
+- running a temperature gradient rather than triplicate to troubleshoot potential annealing temperature change leading to PCR fails
+- 16 tubes, 3 samples for 4 tubes each and 4 negatives?
+- using 0 515F, 0 806R primers
+
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 6, Gill
+4) Negative 1
+5) August 2025, NSW1, 1, Gill
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 6, Gill
+8) Negative 2
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 6, Gill
+12) Negative 3
+13) August 2025, NSW1, 1, Gill
+14)  August 2025, NSW1, 3, Gill
+15) August 2025, NSW1, 6, Gill
+16) Negative 4
+
+|                 |                       |                            |
+| --------------- | --------------------- | -------------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% |
+| Buffer          | 5                     | 94.5                       |
+| dNTP (10mM)     | 0.5                   | 9.45                       |
+| F Primer (10uM) | 1                     | 18.9                       |
+| R Primer (10uM) | 1                     | 18.9                       |
+| Polymerase      | 0.25                  | 4.725                      |
+| Albumin         | 0.25                  | 4.725                      |
+| Water           | 16                    | 302.4                      |
+| DNA             | 1                     |                            |
+| Total           | 25                    | 453.6                      |
