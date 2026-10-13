@@ -278,6 +278,8 @@ Side of tube: Date, Initials, PCR/DNA
 15) August 2025, NSW1, 6, Gill
 16) Negative 4
 
+Side of tube: Date, Initials, PCR/DNA
+
 |                 |                       |                            |
 | --------------- | --------------------- | -------------------------- |
 | Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% |
