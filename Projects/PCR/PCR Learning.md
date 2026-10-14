@@ -288,7 +288,7 @@ Side of tube: Date, Initials, PCR/DNA
 25) Negative 1
 
 Side of tube: Date, Initials, PCR/DNA  
-Program: 16SQ6HSGRAD
+Program: 16SQ6HSGRAD  
 98C for 30 seconds
 2. **28 cycles** (reduced from 30 cycles to) of:
     1. 98C for 10 seconds
