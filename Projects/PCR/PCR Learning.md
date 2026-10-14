@@ -307,15 +307,15 @@ Program: 16SQ6HSGRAD
 
 
 
-|                 |                       |                            |
-| --------------- | --------------------- | -------------------------- |
-| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% |
-| Buffer          | 5                     | 94.5                       |
-| dNTP (10mM)     | 0.5                   | 9.45                       |
-| F Primer (10uM) | 1                     | 18.9                       |
-| R Primer (10uM) | 1                     | 18.9                       |
-| Polymerase      | 0.25                  | 4.725                      |
-| Albumin         | 0.25                  | 4.725                      |
-| Water           | 16                    | 302.4                      |
-| DNA             | 1                     |                            |
-| Total           | 25                    | 453.6                      |
+|                 |                            |                      |
+| --------------- | -------------------------- | -------------------- |
+| Reagent         | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 47.25                      | 141.75               |
+| dNTP (10mM)     | 4.725                      | 14.175               |
+| F Primer (10uM) | 9.45                       | 28.35                |
+| R Primer (10uM) | 9.45                       | 28.35                |
+| Polymerase      | 2.3625                     | 7.0875               |
+| Albumin         | 2.3625                     | 7.0875               |
+| Water           | 151.2                      | 453.6                |
+| DNA             |                            |                      |
+| Total           | 226.8                      | 680.4                |
