@@ -205,5 +205,12 @@
 	- nanodropped sample dilutions to confirm presence of sufficient DNA for amplification
 - figured out a way to shape by wild/farmed in prevalence plot for biology retreat 
 
+## **10/15/2026
+- proofread poster and fixed some formatting to try and limit empty white space
+- figured out program for pcr temperature gradient for tomorrow
+- talked to jade about samples and number of tubes that makes sense for pcr tomorrow
+- worked from 1:30PM - 5PM
+
+
 
 
