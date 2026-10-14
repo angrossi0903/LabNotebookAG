@@ -262,24 +262,50 @@ Side of tube: Date, Initials, PCR/DNA
 - using 0 515F, 0 806R primers
 
 1) August 2025, NSW1, 1, Gill
-2)  August 2025, NSW1, 3, Gill
-3) August 2025, NSW1, 6, Gill
-4) Negative 1
+2) August 2025, NSW1, 1, Gill
+3) August 2025, NSW1, 1, Gill
+4) August 2025, NSW1, 1, Gill
 5) August 2025, NSW1, 1, Gill
-6) August 2025, NSW1, 3, Gill
-7) August 2025, NSW1, 6, Gill
-8) Negative 2
-9) August 2025, NSW1, 1, Gill
+6) August 2025, NSW1, 1, Gill
+7) August 2025, NSW1, 1, Gill
+8) August 2025, NSW1, 1, Gill
+9) August 2025, NSW1, 3, Gill
 10) August 2025, NSW1, 3, Gill
-11) August 2025, NSW1, 6, Gill
-12) Negative 3
-13) August 2025, NSW1, 1, Gill
-14)  August 2025, NSW1, 3, Gill
-15) August 2025, NSW1, 6, Gill
-16) Negative 4
+11) August 2025, NSW1, 3, Gill
+12) August 2025, NSW1, 3, Gill
+13) August 2025, NSW1, 3, Gill
+14) August 2025, NSW1, 3, Gill
+15) August 2025, NSW1, 3, Gill
+16) August 2025, NSW1, 3, Gill
+17) August 2025, NSW1, 6, Gill
+18) August 2025, NSW1, 6, Gill
+19) August 2025, NSW1, 6, Gill
+20) August 2025, NSW1, 6, Gill
+21) August 2025, NSW1, 6, Gill
+22) August 2025, NSW1, 6, Gill
+23) August 2025, NSW1, 6, Gill
+24) August 2025, NSW1, 6, Gill
+25) Negative 1
 
 Side of tube: Date, Initials, PCR/DNA  
 Program: 16SQ6HSGRAD
+98C for 30 seconds
+2. **28 cycles** (reduced from 30 cycles to) of:
+    1. 98C for 10 seconds
+    2. 57/72C for 30 seconds
+	    A. 72C
+	    B. 71C
+	    C. 69.1C
+	    D. 66.4C
+	    E. 62.9C
+	    F. 60.5C
+	    G. 58.4C
+	    H. 57C
+    3. 72C for 20 seconds
+3. 72C for 2 mins (extension)
+4. 12C forever
+
+
 
 |                 |                       |                            |
 | --------------- | --------------------- | -------------------------- |
