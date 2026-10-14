@@ -258,7 +258,7 @@ Side of tube: Date, Initials, PCR/DNA
 
 ## **PCR Training/Troubleshooting 10/15/2026
 - running a temperature gradient rather than triplicate to troubleshoot potential annealing temperature change leading to PCR fails
-- 16 tubes, 3 samples for 4 tubes each and 4 negatives?
+- 25 tubes, 3 samples for 8 tubes each and 1 negative tube?
 - using 0 515F, 0 806R primers
 
 1) August 2025, NSW1, 1, Gill
