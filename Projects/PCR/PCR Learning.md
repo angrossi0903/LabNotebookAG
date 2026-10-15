@@ -225,7 +225,7 @@ Tubes:
 2)  August 2025, NSW1, 3, Gill
 3) August 2025, NSW1, 6, Gill
 4) Negative 1
-5) August 2025, NSW1, 1, Gill
+5) August 2025, NSW1, 1, Gill 
 6) August 2025, NSW1, 3, Gill
 7) August 2025, NSW1, 6, Gill
 8) Negative 2
@@ -320,3 +320,6 @@ Program: 16SQ6HSGRAD
 | Water           | 151.2                      | 453.6                |
 | DNA             |                            |                      |
 | Total           | 226.8                      | 680.4                |
+- while doing pcr tubes, one of the rows of tubes got flipped (row 9-16)
+- Negative tube in 66.4C degree well
+- Tube 1, 9, and 17 in 72C; Tube 8, 16, and 24 in 57C
