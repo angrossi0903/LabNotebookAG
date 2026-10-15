@@ -259,6 +259,7 @@ Side of tube: Date, Initials, PCR/DNA
 ## **PCR Training/Troubleshooting 10/15/2026
 - running a temperature gradient rather than triplicate to troubleshoot potential annealing temperature change leading to PCR fails
 - 25 tubes, 3 samples for 8 tubes each and 1 negative tube?
+	- 2 samples from dilutions used in October, 1 sample from August (new dilution)
 - using 0 515F, 0 806R primers
 
 1) August 2025, NSW1, 1, Gill
@@ -277,14 +278,14 @@ Side of tube: Date, Initials, PCR/DNA
 14) August 2025, NSW1, 3, Gill
 15) August 2025, NSW1, 3, Gill
 16) August 2025, NSW1, 3, Gill
-17) August 2025, NSW1, 6, Gill
-18) August 2025, NSW1, 6, Gill
-19) August 2025, NSW1, 6, Gill
-20) August 2025, NSW1, 6, Gill
-21) August 2025, NSW1, 6, Gill
-22) August 2025, NSW1, 6, Gill
-23) August 2025, NSW1, 6, Gill
-24) August 2025, NSW1, 6, Gill
+17) August 2025, NSW1, 20, Gill
+18) August 2025, NSW1, 20, Gill
+19) August 2025, NSW1, 20, Gill
+20) August 2025, NSW1, 20, Gill
+21) August 2025, NSW1, 20, Gill
+22) August 2025, NSW1, 20, Gill
+23) August 2025, NSW1, 20, Gill
+24) August 2025, NSW1, 20, Gill
 25) Negative 1
 
 Side of tube: Date, Initials, PCR/DNA  
