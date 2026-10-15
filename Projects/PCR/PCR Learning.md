@@ -323,3 +323,5 @@ Program: 16SQ6HSGRAD
 - while doing pcr tubes, one of the rows of tubes got flipped (row 9-16)
 - Negative tube in 66.4C degree well
 - Tube 1, 9, and 17 in 72C; Tube 8, 16, and 24 in 57C
+
+![](Pasted%20image%2020261015150245.png)
