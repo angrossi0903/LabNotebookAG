@@ -331,7 +331,7 @@ Program: 16SQ6HSGRAD
 - after temperature gradient last week was successful, going to modify the pcr program we used prior to have an annealing temperature of 63C
 - using the same 3 samples in triplicate plus a negative triplicate
 - using diluted ladder to try and fix streaking 
-	- 
+	- 50:500 dilution 
 - Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 20, Gill== and primers ==0 515F and 0 806R==
 	- Triplicate for each sample and a triplicate for negative!
 	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
