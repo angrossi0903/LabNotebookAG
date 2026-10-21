@@ -325,3 +325,40 @@ Program: 16SQ6HSGRAD
 - Tube 1, 9, and 17 in 72C; Tube 8, 16, and 24 in 57C
 
 ![](Pasted%20image%2020261015150245.png)
+
+## **PCR Training/Troubleshooting 10/22/2026
+
+- after temperature gradient last week was successful, going to modify the pcr program we used prior to have an annealing temperature of 63C
+- using the same 3 samples in triplicate plus a negative triplicate
+- using diluted ladder to try and fix streaking 
+	- 
+- Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 20, Gill== and primers ==0 515F and 0 806R==
+	- Triplicate for each sample and a triplicate for negative!
+	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
+- Have a working PCR box in small freezer next to the Narwhal freezer
+- Taq and albumin in the same freezer
+- 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
+	- ==2 microliter of DNA, 18 microliters of water==
+		- **do this for all DNA dilutions for PCR ,moving forward**
+- Thermocycler program: 63 °C - ==OYS_16S_PCR==
+1. 98C for 30 seconds
+2. **28 cycles** (reduced from 30 cycles to) of:
+    1. 98C for 10 seconds
+    2. 63C for 30 seconds
+    3. 72C for 20 seconds
+3. 72C for 2 mins (extension)
+4. 12C forever
+
+Tubes:
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 20, Gill
+4) Negative 1
+5) August 2025, NSW1, 1, Gill 
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 20, Gill
+8) Negative 2
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 20, Gill
+12) Negative 3
