@@ -228,6 +228,6 @@
 - made 18 water aliquots for pcr and put them in walrus freezer (temporary)
 - practiced poster and took notes on answers to potential questions
 - make molecular water aliquots 1ml for pcr reagents box (20)
-- worked 9 50 - 
+- worked 9 50 - 4 
 
 
