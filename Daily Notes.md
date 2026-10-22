@@ -211,6 +211,6 @@
 - talked to jade about samples and number of tubes that makes sense for pcr tomorrow
 - worked from 1:30PM - 5PM
 
-
+- make molecular water aliquots 1ml for pcr reagents box (20)
 
 
