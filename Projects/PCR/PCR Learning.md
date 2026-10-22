@@ -362,3 +362,16 @@ Tubes:
 10) August 2025, NSW1, 3, Gill
 11) August 2025, NSW1, 20, Gill
 12) Negative 3
+
+|                 |                       |                            |                      |
+| --------------- | --------------------- | -------------------------- | -------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 5                     | 21                         | 63                   |
+| dNTP (10mM)     | 0.5                   | 2.1                        | 6.3                  |
+| F Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| R Primer (10uM) | 1                     | 4.2                        | 12.6                 |
+| Polymerase      | 0.25                  | 1.05                       | 3.15                 |
+| Albumin         | 0.25                  | 1.05                       | 3.15                 |
+| Water           | 16                    | 67.2                       | 201.6                |
+| DNA             | 1                     |                            |                      |
+| Total           | 25                    | 100.8                      | 302.4                |
