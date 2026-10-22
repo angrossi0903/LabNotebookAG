@@ -1,4 +1,4 @@
-## **PCR Training First Round Test; 7/23/2026
+![](Screenshot%202026-10-22%20140523.png)![](Screenshot%202026-10-22%20140523.png)## **PCR Training First Round Test; 7/23/2026
 Primers Used: 0N 515F, 0N 806R
 Sample 1: NSW2, August, Oyster 2, 2025, Gill
 Sample 2: NSW1, August, Oyster 6, 2025, Gill
@@ -389,4 +389,12 @@ Tubes:
 9) August 2025, NSW1, 1, Gill
 10) August 2025, NSW1, 3, Gill
 11) August 2025, NSW1, 6, Gill
-12) Negative 3
+12) Negative
+
+
+
+![](Screenshot%202026-10-22%20140523.png)
+
+- might try changing the number of cycles or using 16s touchdown?
+
+
