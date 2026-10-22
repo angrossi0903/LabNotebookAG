@@ -376,3 +376,17 @@ Tubes:
 | Water           | 16                    | 67.2                       | 201.6                |
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 100.8                      | 302.4                |
+- wasn't enough dna in sample 20 dilution; used sample 6 dilution instead
+Tubes:
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 6, Gill
+4) Negative 1
+5) August 2025, NSW1, 1, Gill 
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 6, Gill
+8) Negative 2
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 6, Gill
+12) Negative 3
