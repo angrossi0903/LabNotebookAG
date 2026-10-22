@@ -211,6 +211,23 @@
 - talked to jade about samples and number of tubes that makes sense for pcr tomorrow
 - worked from 1:30PM - 5PM
 
+## **10/16/2026
+- made image for gel this past week better with differences in labeling and fixing DNA ladder labels, posted in genetics-wetlab on slack and had a great conversation about it with sarah!|
+- worked 11-11 45; 2-3
+
+## **10/21/2026
+- made plan for pcr tomorrow
+- made dna ladder dilution to try and fix dna ladder streaking
+- did some practice for my poster shpeel, 
+- going to watch brandon do a gel his way to see if I should do anything differently for when I help run his gels
+- tried to figure out where the bad smell in the lab was coming from
+- worked 1 30 - 4 30
+
+## **10/22/2026
+- did pcr with program we used prior, but changed 66C annealing temperature to 63C annealing temperature
+- made 18 water aliquots for pcr and put them in walrus freezer (temporary)
+- practiced poster and took notes on answers to potential questions
 - make molecular water aliquots 1ml for pcr reagents box (20)
+- worked 9 50 - 
 
 
