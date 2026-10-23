@@ -136,7 +136,7 @@ Row 2: Ladder, 9, 10, 11, 12, 13, 14, 15, 16, Negative, Empty, Empty, Empty, Emp
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
-	- ==2 microliter of DNA, 18 microliters of water==
+	- ==20 microliter of DNA, 180 microliters of water==
 		- **do this for all DNA dilutions for PCR ,moving forward**
 - Thermocycler program: 66 °C - ==OYS_16S_PCR==
 1. 98C for 30 seconds
@@ -209,7 +209,7 @@ Gel Order: DNA Ladder, PCR Tube 1, 2, 3, 4 (negative), 5, 6, 7, 8 (negative), re
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
-	- ==2 microliter of DNA, 18 microliters of water==
+	- ==20 microliter of DNA, 180 microliters of water==
 		- **do this for all DNA dilutions for PCR ,moving forward**
 - Thermocycler program: 66 °C - ==OYS_16S_PCR==
 1. 98C for 30 seconds
@@ -339,7 +339,7 @@ Program: 16SQ6HSGRAD
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
 - 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
-	- ==2 microliter of DNA, 18 microliters of water==
+	- ==20 microliter of DNA, 180 microliters of water==
 		- **do this for all DNA dilutions for PCR ,moving forward**
 - Thermocycler program: 63 °C - ==OYS_16S_PCR==
 1. 98C for 30 seconds
@@ -398,3 +398,26 @@ Tubes:
 - might try changing the number of cycles or using 16s touchdown?
 
 
+## **PCR Troubleshooting Reflection
+1) In the beginning of the resuming of my training in October, we prioritized me learning how to do a sterile PCR due to bands being present in my negatives in the PCR I did in August. The first PCR did not work and I believed it could have been because I forgot to add albumin to my MasterMix.
+2) In my second PCR, Jade watched me make the MasterMix and load the MasterMix and DNA into PCR tubes to make sure I added everything, my technique was accurate and precise, and importantly keeping an eye out for non-sterile techniques. Everything went well with the PCR, but the PCR still did not work based on no bands in the sample wells of the agarose gel. We hypothesized that it could be something with the PCR program we had been using (potentially the annealing temperature).
+3) In my third PCR, we attempted to determine if the annealing temperature could be the factor preventing my previous PCRs from working. For this PCR, I performed a temperature gradient to determine which annealing temperature created the cleanest band and didn't form double banding. This PCR did work and it was determined that the 63C annealing temperature created the cleanest target band. A big plus was there were no bands in my negative which gave me confidence that I can perform a sterile PCR on my own. Based on these results, we decided to change the annealing temperature in the PCR program we had been using to 63C from 66C.
+4) In my fourth PCR, we used the same program as before the temperature gradient PCR, with the change in annealing temperature applied (66C to 63C). This PCR once again did not work. After comparing the different programs more closely, there is also a difference in the number of cycles done between programs (35 cycles in temperature gradient; 28 in the protocol we had been using). The next PCR is going to modify the program with the 63C annealing temperature to 35 cycles instead of 28 to see if the number of cycles ran is the issue. 
+
+## Each step of the PCR program and what each step does
+1. **98C for 30 seconds**
+	- ==🟡Denaturation of double stranded DNA==
+2. **28 cycles** (reduced from 30 cycles to) of:
+	- ==🟡Number of cycles performed; number of cycles directly proportional to amount of DNA amplification==
+    1. **98C for 10 seconds**
+	- ==🟡Denaturation==
+    2. **63C for 30 seconds**
+    - ==🟡Annealing of primers; primers can be picky about what temperature they will anneal in and can change between which primers you are using==
+    3. **72C for 20 seconds**
+    - ==🟡DNA Extension from primers using dNTPs and your polymerase==
+3. **72C for 2 mins (extension)**
+	- ==🟡Final extension step==
+4. **12C forever**
+	- ==🟡Storage of PCR until removed from thermocycler and program is cancelled==
+
+## How to interpret gels
