@@ -421,3 +421,7 @@ Tubes:
 	- ==🟡Storage of PCR until removed from thermocycler and program is cancelled==
 
 ## How to interpret gels
+
+![](Screenshot%202026-10-16%20143918.png)
+
+- The way to interpret a gel is through pinpointing 
