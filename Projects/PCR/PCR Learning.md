@@ -398,7 +398,7 @@ Tubes:
 - might try changing the number of cycles or using 16s touchdown?
 
 
-## **PCR Troubleshooting Reflection
+## **PCR Troubleshooting Reflection 10/23/2026
 1) In the beginning of the resuming of my training in October, we prioritized me learning how to do a sterile PCR due to bands being present in my negatives in the PCR I did in August. The first PCR did not work and I believed it could have been because I forgot to add albumin to my MasterMix.
 2) In my second PCR, Jade watched me make the MasterMix and load the MasterMix and DNA into PCR tubes to make sure I added everything, my technique was accurate and precise, and importantly keeping an eye out for non-sterile techniques. Everything went well with the PCR, but the PCR still did not work based on no bands in the sample wells of the agarose gel. We hypothesized that it could be something with the PCR program we had been using (potentially the annealing temperature).
 3) In my third PCR, we attempted to determine if the annealing temperature could be the factor preventing my previous PCRs from working. For this PCR, I performed a temperature gradient to determine which annealing temperature created the cleanest band and didn't form double banding. This PCR did work and it was determined that the 63C annealing temperature created the cleanest target band. A big plus was there were no bands in my negative which gave me confidence that I can perform a sterile PCR on my own. Based on these results, we decided to change the annealing temperature in the PCR program we had been using to 63C from 66C.
@@ -424,4 +424,42 @@ Tubes:
 
 ![](Screenshot%202026-10-16%20143918.png)
 
-- The way to interpret a gel is through pinpointing 
+- The way to interpret a gel is through pinpointing whether your target band falls within a certain area based on your DNA ladder. Your DNA ladder with include bands that represent a certain number of base pairs, and these can be used as markers for your target band
+	- For example, in the gel image above we can see 4 ladders, one in each corner of the gel. The labeled bands in the image represent 1000bp and 500/517bp respectively. Larger bands will be closer to the gel wells, and smaller bands will be further away from the gel wells. In this case, our target bands is ~290bp. Therefore, the target band should be somewhere below the 500bp ladder band, but also not super far from the ladder band since this would indicate the bp for that band is too small to be our target band.  
+
+
+## **PCR Training/Troubleshooting 10/29/2026
+- after changing the annealing temperature from 66C to 63C was unsuccessful, this week we are trying to increase the number of cycles from 28 to 35 with the 63C annealing temperature to determine if number of cycles gives us enough amplification
+- using the same 3 samples as PCR from 10/22/2026 in triplicate plus a negative triplicate
+- using diluted ladder to try and fix streaking 
+	- 50:500 dilution; keeping with pcr reagents in freezer
+- Using samples ==August 2025, NSW1, 1, Gill== ; ==August 2025, NSW1, 3, Gill==; ==August 2025, NSW1, 20, Gill== and primers ==0 515F and 0 806R==
+	- Triplicate for each sample and a triplicate for negative!
+	- In Rack 4, box labeled #1 PIC 2025 Aug Gill DNA extractions 4/2026
+- Have a working PCR box in small freezer next to the Narwhal freezer
+- Taq and albumin in the same freezer
+- 1:10 dilution with triplicates for each sample and a triplicate for 1 negative
+	- ==20 microliter of DNA, 180 microliters of water==
+		- **do this for all DNA dilutions for PCR ,moving forward**
+- Thermocycler program: 63 °C - ==OYS_16S_PCR==
+1. 98C for 30 seconds
+2. **35 cycles** (increased from 28 cycles to) of:
+    1. 98C for 10 seconds
+    2. 63C for 30 seconds
+    3. 72C for 20 seconds
+3. 72C for 2 mins (extension)
+4. 12C forever
+
+Tubes:
+1) August 2025, NSW1, 1, Gill
+2)  August 2025, NSW1, 3, Gill
+3) August 2025, NSW1, 6, Gill
+4) Negative 1
+5) August 2025, NSW1, 1, Gill 
+6) August 2025, NSW1, 3, Gill
+7) August 2025, NSW1, 6, Gill
+8) Negative 2
+9) August 2025, NSW1, 1, Gill
+10) August 2025, NSW1, 3, Gill
+11) August 2025, NSW1, 6, Gill
+12) Negative
