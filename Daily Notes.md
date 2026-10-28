@@ -230,4 +230,8 @@
 - make molecular water aliquots 1ml for pcr reagents box (20)
 - worked 9 50 - 4 
 
+## **10/28/2026
+- made two gels for brandon pcrs done on 10/26/2026 (screenshots of annotated gels from Brandon's gel annotation template in lab notebook)
+- Read article, did IAT and reflection for lab meeting
+- worked 1:20PM - 4:50PM
 
