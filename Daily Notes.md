@@ -239,3 +239,8 @@
 - Read article, did IAT and reflection for lab meeting
 - worked 1:20PM - 4:50PM
 
+## **10/29/2026
+- ran a successful PCR with change to number of cycles in program on thermocycler
+- started relabeling freezer rack spreadsheet
+- worked 9:30AM - 4:40PM
+

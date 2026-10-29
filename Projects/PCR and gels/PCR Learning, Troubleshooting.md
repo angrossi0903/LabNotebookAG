@@ -481,3 +481,8 @@ Tubes:
 
 - add 2 microliters of ladder today, make sure to spin ladder before loading
 
+![](../../Images/Screenshot%202026-10-29%20164518.png)
+
+- successful PCR!!!
+- going to change the tube order for triplicates to make labeling easier and clearer
+- definitely load 2 microliters of ladder from 1:10 dilution
