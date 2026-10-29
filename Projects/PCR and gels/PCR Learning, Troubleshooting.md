@@ -480,3 +480,4 @@ Tubes:
 12) Negative 3
 
 - add 2 microliters of ladder today, make sure to spin ladder before loading
+
