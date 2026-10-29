@@ -5,5 +5,5 @@
 
 ![](../../Images/Screenshot%202026-10-28%20163622.jpg)
 
-
+- maybe labeling just the first tube for each sample in gel images!
 
