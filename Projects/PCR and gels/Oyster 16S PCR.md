@@ -85,3 +85,6 @@ Tube Assignments:
 | Water           | 16                    | 100.8                      | 302.4                |
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 151.2                      | 453.6                |
+- gel loading and picture labeling
+	- loading triplicate together rather than every 3 wells like in previous gels (doing this by doing triplicate in a row; see tube assignment above)
+	- labeling: assign different colored bars above wells to indicate which sample triplicate, label negatives using "neg"
