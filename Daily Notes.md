@@ -244,3 +244,12 @@
 - started relabeling freezer rack spreadsheet
 - worked 9:30AM - 4:40PM
 
+## **11/2/2026
+- made a rough outline of a plan for pcr this thursday and templates that can be used for future pcr plans
+- finished relabeling freezer rack spreadsheet
+- worked 1:15PM - 3:50PM
+
+## **11/4/2026
+- ran 2 gels for brandon (gels on obsidian)
+- made plan for pcr tomorrow and picked samples
+- worked 1:30PM to 5:00PM
