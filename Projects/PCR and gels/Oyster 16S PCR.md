@@ -59,3 +59,4 @@ Tube Assignments:
 NOTES:
 - made MasterMix without water and didn't have enough water in aliquot; had to grab one from freezer but mix sat for 5 minutes
 - dilutions went well, pipetting went well (had enough MasterMix; dilutions looked even, PCR tubes looked even)
+- gel loading went well
