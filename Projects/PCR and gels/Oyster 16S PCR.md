@@ -60,3 +60,4 @@ NOTES:
 - made MasterMix without water and didn't have enough water in aliquot; had to grab one from freezer but mix sat for 5 minutes
 - dilutions went well, pipetting went well (had enough MasterMix; dilutions looked even, PCR tubes looked even)
 - gel loading went well
+- band in negative 1; don't see a band in negative 2. waiting to see if the pcr needs to be redone![](../../Images/Pasted%20image%2020261105145207.png)
