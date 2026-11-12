@@ -125,3 +125,7 @@ Tube Assignments:
 | Water           | 16                    | 100.8                      | 302.4                |
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 151.2                      | 453.6                |
+Notes:
+- vortexed Reaction buffer, dNTPs, and primers for 5 seconds and spun down for 2
+- tubes flipped when empty by accident (they were open)
+- 
