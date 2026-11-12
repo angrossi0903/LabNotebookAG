@@ -77,7 +77,7 @@ NOTES:
 - doing 5 samples in triplicate and 2 negatives 
 - using diluted ladder (loading 2 microliters of DNA and 2 microliters of dye) 
 	- 50:500 dilution
-- Using samples (TBD) and primers ==0N 515F and 0N 806R==
+- Using samples August 2025, NSW1, 1, Gill through August 2025, NSW1, 5, Gill and primers ==2N 515F and 2N 806R==
 	- Triplicate for each sample
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
