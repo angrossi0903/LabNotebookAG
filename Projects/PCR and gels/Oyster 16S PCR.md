@@ -128,4 +128,5 @@ Tube Assignments:
 Notes:
 - vortexed Reaction buffer, dNTPs, and primers for 5 seconds and spun down for 2
 - tubes flipped when empty by accident (they were open)
-- 
+- used different primers, accidentally used different dNTPs
+- bands in my negative but fainter than last week's
