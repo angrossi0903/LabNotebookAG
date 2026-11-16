@@ -191,3 +191,6 @@ Tube Assignments:
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 151.2                      | 453.6                |
 Notes: 
+- made sure to use unused dNTP aliquot in my freezer box (made by brandon a few months ago)
+- vortexed and spun-down water aliquots, primers, reaction buffer, and DNA dilutions
+- 
