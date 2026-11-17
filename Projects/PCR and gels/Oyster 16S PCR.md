@@ -131,7 +131,7 @@ Notes:
 - used different primers, accidentally used different dNTPs
 - bands in my negative but fainter than last week's
 
-
+![](../../Images/Pasted%20image%2020261116151540.png)
 ## **11/16/2026
 - ## notes from meeting with jade: 
 	- **make sure to use new dNTPs, primer aliquots
@@ -193,4 +193,4 @@ Tube Assignments:
 Notes: 
 - made sure to use unused dNTP aliquot in my freezer box (made by brandon a few months ago)
 - vortexed and spun-down water aliquots, primers, reaction buffer, and DNA dilutions
-- 
+- finished polymerase tube
