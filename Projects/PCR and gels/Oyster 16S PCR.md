@@ -268,3 +268,4 @@ Notes for updating CSV:
 - make new branch for each individual pcr run
 
 Notes for PCR: 
+- while making mastermix, didn't have enough 0N primers so had to defrost 2N primers in the middle of making mastermix
