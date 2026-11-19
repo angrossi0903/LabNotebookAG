@@ -248,16 +248,16 @@ Tube Assignments:
 	25) Negative
 	26) Negative
 
-|                 |                       |                            |                      |
-| --------------- | --------------------- | -------------------------- | -------------------- |
-| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
-| Buffer          | 5                     | 31.5                       | 94.5                 |
-| dNTP (10mM)     | 0.5                   | 3.15                       | 9.45                 |
-| F Primer (10uM) | 1                     | 6.3                        | 18.9                 |
-| R Primer (10uM) | 1                     | 6.3                        | 18.9                 |
-| Polymerase      | 0.25                  | 1.575                      | 4.725                |
-| Albumin         | 0.25                  | 1.575                      | 4.725                |
-| Water           | 16                    | 100.8                      | 302.4                |
-| DNA             | 1                     |                            |                      |
-| Total           | 25                    | 151.2                      | 453.6                |
+|   |   |   |   |
+|---|---|---|---|
+|Reagent|Amount per 1 rxn (uL)|MasterMix Amount (uL) + 5%|Triplicate (uL) + 5%|
+|Buffer|5|47.25|141.75|
+|dNTP (10mM)|0.5|4.725|14.175|
+|F Primer (10uM)|1|9.45|28.35|
+|R Primer (10uM)|1|9.45|28.35|
+|Polymerase|0.25|2.3625|7.0875|
+|Albumin|0.25|2.3625|7.0875|
+|Water|16|151.2|453.6|
+|DNA|1|||
+|Total|25|226.8|680.4|
 Notes: 
