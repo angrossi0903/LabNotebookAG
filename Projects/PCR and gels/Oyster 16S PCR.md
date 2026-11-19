@@ -200,10 +200,10 @@ Notes:
 	- vortex and spindown MasterMix components (except dNTPs, polymerase, and albumin)
 	- vortex dilutions and then spin down briefly
 
-- doing 5 samples in triplicate and 2 negatives 
+- doing 8 samples in triplicate and 2 negatives 
 - using diluted ladder (loading 2 microliters of DNA and 2 microliters of dye) 
 	- 50:500 dilution
-- Using samples August 2025, NSW1, 6, Gill through August 2025, NSW1, 10, Gill and primers ==0N 515F and 0N 806R==
+- Using samples August 2025, NSW1, 6, Gill through August 2025, NSW1, 13, Gill and primers ==0N 515F and 0N 806R==
 	- Triplicate for each sample
 - Have a working PCR box in small freezer next to the Narwhal freezer
 - Taq and albumin in the same freezer
@@ -248,16 +248,16 @@ Tube Assignments:
 	25) Negative
 	26) Negative
 
-|   |   |   |   |
-|---|---|---|---|
-|Reagent|Amount per 1 rxn (uL)|MasterMix Amount (uL) + 5%|Triplicate (uL) + 5%|
-|Buffer|5|47.25|141.75|
-|dNTP (10mM)|0.5|4.725|14.175|
-|F Primer (10uM)|1|9.45|28.35|
-|R Primer (10uM)|1|9.45|28.35|
-|Polymerase|0.25|2.3625|7.0875|
-|Albumin|0.25|2.3625|7.0875|
-|Water|16|151.2|453.6|
-|DNA|1|||
-|Total|25|226.8|680.4|
+|                 |                       |                            |                      |
+| --------------- | --------------------- | -------------------------- | -------------------- |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 5% | Triplicate (uL) + 5% |
+| Buffer          | 5                     | 47.25                      | 141.75               |
+| dNTP (10mM)     | 0.5                   | 4.725                      | 14.175               |
+| F Primer (10uM) | 1                     | 9.45                       | 28.35                |
+| R Primer (10uM) | 1                     | 9.45                       | 28.35                |
+| Polymerase      | 0.25                  | 2.3625                     | 7.0875               |
+| Albumin         | 0.25                  | 2.3625                     | 7.0875               |
+| Water           | 16                    | 151.2                      | 453.6                |
+| DNA             | 1                     |                            |                      |
+| Total           | 25                    | 226.8                      | 680.4                |
 Notes: 
