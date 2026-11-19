@@ -236,8 +236,17 @@ Tube Assignments:
 	13) August 2025, NSW1, 10, Gill
 	14) August 2025, NSW1, 10, Gill
 	15) August 2025, NSW1, 10, Gill
-	16) Negative
-	17) Negative
+	16) August 2025, NSW1, 11, Gill
+	17) August 2025, NSW1, 11, Gill
+	18) August 2025, NSW1, 11, Gill
+	19) August 2025, NSW1, 12, Gill
+	20) August 2025, NSW1, 12, Gill
+	21) August 2025, NSW1, 12, Gill
+	22) August 2025, NSW1, 13, Gill
+	23) August 2025, NSW1, 13, Gill
+	24) August 2025, NSW1, 13, Gill
+	25) Negative
+	26) Negative
 
 |                 |                       |                            |                      |
 | --------------- | --------------------- | -------------------------- | -------------------- |
