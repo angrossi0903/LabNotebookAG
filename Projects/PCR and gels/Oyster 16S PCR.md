@@ -260,4 +260,11 @@ Tube Assignments:
 | Water           | 16                    | 151.2                      | 453.6                |
 | DNA             | 1                     |                            |                      |
 | Total           | 25                    | 226.8                      | 680.4                |
-Notes: 
+Notes for updating CSV:  
+- use the first number of the tube series instead of doing all tube numbers
+- only use the "N" data for adapters
+- only use integer for tray number
+- update and push the same they day *
+- make new branch for each individual pcr run
+
+Notes for PCR: 
